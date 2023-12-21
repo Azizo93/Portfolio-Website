@@ -1,8 +1,8 @@
-# React + Vite
+# Portfolio Website - www.omaraziz.co.uk
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here you can find the code for my wortfolio website created in React, Vite. It uses Tailwind CSS for styling. 
+This will be an ongoing project I will look to develop as I work on my portfolio projects. 
 
-Currently, two official plugins are available:
+Please visit the site and take a look around. Any questions can be sent using the contact section on the site. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Thanks for visiting and for all the support! 
